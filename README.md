@@ -29,6 +29,7 @@ We are going to use here Azure Cognitive Search and its new vector store.
 
 ## To learn more
 - https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search
+- https://techcommunity.microsoft.com/t5/azure-ai-services-blog/announcing-vector-search-in-azure-cognitive-search-public/ba-p/3872868
 
 
 <br>
