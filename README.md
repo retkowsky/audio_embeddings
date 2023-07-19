@@ -9,7 +9,6 @@ Azure Cognitive Search today doesn't provide a way to vectorize documents and qu
 We can use audio embeddings to find similarities between audio files.
 We are going to use here Azure Cognitive Search and its new vector store.
 
-Azure Cognitive Search:
 <img src="acs1.png">
 
 ## Notebooks
